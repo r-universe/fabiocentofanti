@@ -5,3 +5,6 @@
 [submodule "rofanova"]
 	path = rofanova
 	url = https://github.com/fabiocentofanti/rofanova
+[submodule "slasso"]
+	path = slasso
+	url = https://github.com/fabiocentofanti/slasso
